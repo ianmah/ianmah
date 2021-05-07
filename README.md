@@ -3,7 +3,7 @@
 I'm Ian! I love building things and experimenting with new tech. Mainly experienced with frontend/web dev, but am interested in fullstack and everything else.
 
 - 📚 Studying Computer Science at the University of British Columbia
-- 💼 Currently looking for internships
+- 💼 Currently interning @ Tesla
 - 😄 Pronouns: He/Him/His
 - 🏢 Previously: Software Developer Co-op at Hootsuite
 
