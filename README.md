@@ -4,6 +4,6 @@ I'm Ian! I love building things and experimenting with new tech. Mainly experien
 
 - 🎓 Computer Science at the University of British Columbia
 - 😄 Pronouns: He/Him
-- 🔮 Future: SWE @ Meta
-- 🛠 Currently: Building in web3, probably nothing
+- 🔮 Future: Building in web3, probably nothing
+- 🛠 Currently: SWE @ Meta
 - 🏢 Previously: Tesla, Hootsuite
